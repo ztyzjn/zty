@@ -1,0 +1,16 @@
+{
+    "name": "ztyzjn/zty",
+    "description": "test only success",
+    "type": "php",
+    "require": {
+        "laravel/laravel": "v5.3.30"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhangtingyi",
+            "email": "hao001@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
